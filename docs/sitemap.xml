@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/posts/</loc>
     <lastmod>2023-12-21T14:35:25+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/third/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/posts/third/</loc>
     <lastmod>2023-12-21T14:35:25+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/my-first-post-copy/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/posts/my-first-post-copy/</loc>
     <lastmod>2023-12-21T14:35:25+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/second/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/posts/second/</loc>
     <lastmod>2023-12-21T14:35:25+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/</loc>
     <lastmod>2023-12-21T14:35:25+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://2029sheepyang.github.io/nienie/tags/</loc>
   </url>
 </urlset>

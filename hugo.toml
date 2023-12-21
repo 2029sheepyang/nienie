@@ -2,10 +2,10 @@ baseURL = 'https://2029sheepyang.github.io/nienie/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
-publishDir = "docs"
 canonifyurls = true
 hasCJKLanguage = true
 summaryLength = 30
+publishDir = "docs"
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
